@@ -1,3 +1,7 @@
+for running the code, first need to download files: butterfly.mp4 and yolov3_for_butterflies.weights from https://drive.google.com/drive/folders/1nn73QBXyBzLpQwoiEZNDjXk-r8iLiFhW?usp=sharing
+
+and then run butterfly_test.py
+
 My logic-flow of doing prompt1:
 
 1 Fine some butterfly photo from Kaggle and label them.
